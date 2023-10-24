@@ -1,1 +1,1 @@
-console.log('%c TEST!');
+console.log('%c TEST');
